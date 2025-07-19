@@ -35,14 +35,6 @@
   <a href="https://go.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30" alt="Golang" />
   </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React" />
-  </a>
-<a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" width="30" alt="Tailwind CSS" />
-  </a>
-
-  
 </p>
 
 
