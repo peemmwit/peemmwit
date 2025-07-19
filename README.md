@@ -1,10 +1,11 @@
 
-<div align="center" style="text-align:center;">
-  <h1>Hi👋 I'm Peemmwit Namjad</h1>
+  <div align="center" style="text-align:center;">
+    <h1>Hi👋 I'm Peemmwit Namjad</h1>
+  </div>
+
   <p>🌍 Based in Bangkok, Thailand <br>
   🎓 Computer Science student at Bangkok University <br>
   💻 Passionate about developing web applications and exploring emerging technologies</p>
-</div>
 
   <h2>🛠️ Tech Stack</h2>
   <h3>Frontend</h3>
