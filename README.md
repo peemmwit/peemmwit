@@ -1,10 +1,7 @@
-## Yo! I’m Peak 🎮
-Just a dude who games hard and codes harder...<br>
-💻 On the grind to become a full-stack dev — slow & steady vibes<br>
-🛠️ Love messing around with random side projects, just for the fun of it<br>
-🍜 Night owl life: late-night code, cup noodles, and chill Lo-Fi beats on repeat<br>
-<br>
-Still learning, still leveling up...
+## Hi 👋 <br>
+
+## My Name Peaks <br>
+I'm a CS student at Bangkok University
 
 <!--
 **peemmwit/peemmwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
