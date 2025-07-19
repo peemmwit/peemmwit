@@ -4,6 +4,7 @@
   <p>🌍 Based in Bangkok, Thailand <br>
   🎓 Computer Science student at Bangkok University <br>
   💻 Passionate about developing web applications and exploring emerging technologies</p>
+</div>
 
   <h2>🛠️ Tech Stack</h2>
   <h3>Frontend</h3>
@@ -37,7 +38,7 @@
     <a href="https://yarnpkg.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" alt="Yarn" /></a>
     <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="NPM" /></a>
   </p>
-</div>
+
 
 <!-- ## 📊 Skill Overview -->
 
