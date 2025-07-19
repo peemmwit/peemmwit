@@ -1,7 +1,7 @@
 ## Hi 👋 <br>
 
-<span class="font-bold">My Name Peaks</span>
-I'm a CS student at Bangkok University
+### My Name Peaks 
+### I'm a CS student at Bangkok University
 
 <!--
 **peemmwit/peemmwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
