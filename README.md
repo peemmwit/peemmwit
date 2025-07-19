@@ -1,6 +1,6 @@
 ## Hi 👋 <br>
 
-## My Name Peaks 
+### My Name Peaks 
 ### I'm a CS student at Bangkok University
 
 <!--
