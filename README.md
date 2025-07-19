@@ -1,6 +1,6 @@
 # Hi 👋 <br>
 
-## My Name Peaks 
+## I'm Peemmwit Namjad 
  I'm a CS student at Bangkok University
 
 ## 🛠️ Tech Stack
