@@ -4,22 +4,6 @@
  I'm a CS student at Bangkok University
 
 ## 🛠️ Tech Stack
-
-<p align="left">
-<style>
-  .icon-row a {
-    margin: 0;
-    padding: 0;
-    border: none;
-  }
-  .icon-row img {
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    border: none;
-    vertical-align: middle;
-  }
-</style>
 <p align="left" class="icon-row">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />
