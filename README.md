@@ -2,7 +2,7 @@
 
 <h2><strong>I'm Peemmwit Namjad</strong>
 <br> 
-<strong>I'm a CS student at Bangkok University</strong></h2>
+I'm a CS student at Bangkok University</h2>
 
 ## 🛠️ Tech Stack
 <p align="left" class="icon-row">
