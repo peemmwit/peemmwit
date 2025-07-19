@@ -1,19 +1,38 @@
 ## Hi 👋 <br>
 
 ### My Name Peaks 
-### I'm a CS student at Bangkok University
+ I'm a CS student at Bangkok University
 
 ## 🛠️ Tech Stack
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)](https://nodejs.org/)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)](https://www.mysql.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=flat-square)](https://firebase.google.com/)
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+</a>
+
 
 <!--
 **peemmwit/peemmwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
