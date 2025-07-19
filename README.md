@@ -1,6 +1,6 @@
 ## Hi 👋 <br>
 
-<h1> My Name Peaks </h1>
+<span class="font-bold">My Name Peaks</span>
 I'm a CS student at Bangkok University
 
 <!--
