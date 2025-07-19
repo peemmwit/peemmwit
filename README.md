@@ -1,8 +1,6 @@
-<h1>Hi👋</h1>
+<h1>Hi👋 I'm Peemmwit Namjad</h1>
 
-<strong>I'm Peemmwit Namjad</strong>
-<br> 
-I'm a CS student at Bangkok University
+## I'm a CS student at Bangkok University
 
 ## 🛠️ Tech Stack
 <p align="left" class="icon-row">
