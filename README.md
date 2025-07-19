@@ -1,4 +1,10 @@
-## Hi there 👋
+## Yo! I’m Peak 🎮
+Just a dude who games hard and codes harder...
+💻 On the grind to become a full-stack dev — slow & steady vibes
+🛠️ Love messing around with random side projects, just for the fun of it
+🍜 Night owl life: late-night code, cup noodles, and chill Lo-Fi beats on repeat
+
+Still learning, still leveling up...
 
 <!--
 **peemmwit/peemmwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
