@@ -5,7 +5,6 @@
 💻 Passionate about developing web applications and exploring emerging technologies
 
 ## 🛠️ Tech Stack
-
 ### Frontend
 <p align="left" class="icon-row">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" /></a>
