@@ -4,7 +4,7 @@
 🎓 Computer Science student at Bangkok University <br>
 💻 Passionate about developing web applications and exploring emerging technologies
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 <p align="left" class="icon-row">
