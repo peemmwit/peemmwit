@@ -1,9 +1,9 @@
 ## Yo! I’m Peak 🎮
-Just a dude who games hard and codes harder...
-💻 On the grind to become a full-stack dev — slow & steady vibes
-🛠️ Love messing around with random side projects, just for the fun of it
-🍜 Night owl life: late-night code, cup noodles, and chill Lo-Fi beats on repeat
-
+Just a dude who games hard and codes harder...<br>
+💻 On the grind to become a full-stack dev — slow & steady vibes<br>
+🛠️ Love messing around with random side projects, just for the fun of it<br>
+🍜 Night owl life: late-night code, cup noodles, and chill Lo-Fi beats on repeat<br>
+<br>
 Still learning, still leveling up...
 
 <!--
