@@ -1,7 +1,7 @@
 # Hi 👋 <br>
 
 ## I'm Peemmwit Namjad 
-## I'm a CS student at Bangkok University
+I'm a CS student at Bangkok University
 
 ## 🛠️ Tech Stack
 <p align="left" class="icon-row">
