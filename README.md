@@ -1,7 +1,7 @@
 <h1>Hi👋 I'm Peemmwit Namjad</h1>
 
-🌍 Based in Bangkok, Thailand  
-🎓 Computer Science student at Bangkok University
+🌍 Based in Bangkok, Thailand <br>
+🎓 Computer Science student at Bangkok University <br>
 💻 Passionate about developing web applications and exploring emerging technologies
 
 ## 🛠️ Tech Stack
