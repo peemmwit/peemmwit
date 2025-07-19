@@ -20,7 +20,7 @@
 <p align="left" class="icon-row">
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" /></a>
-  <a href="https://go.dev/" target="_blank"><img src="https://go.dev/images/go-logo-blue.svg" width="50" alt="Go" /></a>
+  <a href="https://go.dev/" target="_blank"><img src="https://go.dev/images/go-logo-blue.svg" width="55" alt="Go" /></a>
 </p>
 
 ### Database
