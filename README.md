@@ -33,7 +33,6 @@
 ### Tools
 <p align="left" class="icon-row">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" /></a>
-  <a href="https://en.wikipedia.org/wiki/Windsurfing" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Windsurfing_icon.svg" width="40" alt="Windsurf" /></a>
 </p>
 
 <!-- ## 📊 Skill Overview -->
