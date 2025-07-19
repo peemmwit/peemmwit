@@ -30,10 +30,10 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /></a>
 </p>
 
-### Tools
+<!-- ### Tools
 <p align="left" class="icon-row">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" /></a>
-</p>
+</p> -->
 
 <!-- ## 📊 Skill Overview -->
 
