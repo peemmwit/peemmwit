@@ -4,10 +4,9 @@
   <p>🌍 Based in Bangkok, Thailand <br>
   🎓 Computer Science student at Bangkok University <br>
   💻 Passionate about developing web applications and exploring emerging technologies</p>
-  
-  <h2>🛠️ Tech Stack</h2>
 </div>
 
+  <h2>🛠️ Tech Stack</h2>
   <h3>Frontend</h3>
   <p class="icon-row">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /></a>
