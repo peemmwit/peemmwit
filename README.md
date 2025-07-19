@@ -41,6 +41,9 @@
   <a href="https://go.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30" alt="Golang" />
   </a>
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" alt="Figma" />
+  </a>
 </p>
 
 
