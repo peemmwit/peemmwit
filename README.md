@@ -41,7 +41,7 @@
     <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
   </p>
 
-  ![Snake animation](https://raw.githubusercontent.com/peemmwit/peemmwit/output/snake-crimson-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/peemmwit/peemmwit/output/snake-lightgreen.svg)
 
 <!-- ## 📊 Skill Overview -->
 
