@@ -6,7 +6,7 @@
   <p>🌍 Based in Bangkok, Thailand <br>
   🎓 Computer Science student at Bangkok University <br>
   💻 Passionate about developing web applications and exploring emerging technologies</p>
-
+ 
   <h2>🛠️ Tech Stack</h2>
   <h3>Frontend</h3>
   <p class="icon-row">
