@@ -62,5 +62,5 @@ Tools & Design
 
 ##
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Happy+coding!" alt="Simple thanks" />
 </div>
