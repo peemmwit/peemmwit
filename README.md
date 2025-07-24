@@ -42,14 +42,6 @@
   </p>
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peemmwit&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=peemmwit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-
 <!--
 **peemmwit/peemmwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
