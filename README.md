@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  **🌍 Bangkok, Thailand** • **🎓 Bangkok University** • **💻 Web Developer**
+  **🌍 Bangkok, Thailand** • **🎓 Bangkok University** • **💻 Developer**
   
   <br>
   
