@@ -20,7 +20,7 @@
 
 </div>
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Tech Stack**
 
 <div align="center">
 Languages & Core
