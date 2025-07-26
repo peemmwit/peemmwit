@@ -61,7 +61,7 @@ Tools & Design
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=&fontSize=50&fontAlignY=65&desc=&descAlignY=85&descAlign=62" />
 </div>
 
 <!--
