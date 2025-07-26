@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=59c748&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Peemmwit+Namjad;Full-Stack+Developer;Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3800&pause=1200&color=59c748&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Peemmwit+Namjad;Full-Stack+Developer;Computer+Science+Student" alt="Typing SVG" />
 </div>
 
 <br>
@@ -60,6 +60,7 @@ Tools & Design
 </p>
 </div>
 
+<!--
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
@@ -67,4 +68,4 @@ Tools & Design
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=59c748&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Happy+coding!" alt="Simple thanks" />
 </div>
-
+ -->
