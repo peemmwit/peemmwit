@@ -24,8 +24,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="32" height="32" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="32" height="32" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="32" height="32" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="32" height="32" /></a>
   <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Golang" width="32" height="32" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="32" height="32" /></a>
 </p>
 
 **Frontend & Frameworks**
